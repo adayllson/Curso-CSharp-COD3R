@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Adailson\\source\\repos\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj": {}
+    "/home/adailson/Repositórios/Curso-CSharp-COD3R/CursoCSharp/CursoCSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Adailson\\source\\repos\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj": {
+    "/home/adailson/Repositórios/Curso-CSharp-COD3R/CursoCSharp/CursoCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Adailson\\source\\repos\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
+        "projectUniqueName": "/home/adailson/Repositórios/Curso-CSharp-COD3R/CursoCSharp/CursoCSharp.csproj",
         "projectName": "CursoCSharp",
-        "projectPath": "C:\\Users\\Adailson\\source\\repos\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
-        "packagesPath": "C:\\Users\\Adailson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Adailson\\source\\repos\\CursoCSharp\\CursoCSharp\\obj\\",
+        "projectPath": "/home/adailson/Repositórios/Curso-CSharp-COD3R/CursoCSharp/CursoCSharp.csproj",
+        "packagesPath": "/home/adailson/.nuget/packages/",
+        "outputPath": "/home/adailson/Repositórios/Curso-CSharp-COD3R/CursoCSharp/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Adailson\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/adailson/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,11 +51,12 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }
